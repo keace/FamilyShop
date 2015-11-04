@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">FamilyShop Beta</string>
     <string name="search_title">Search</string>
+
+    <string name="menu_item_shop">Магазин</string>
+    <string name="menu_item_cart">Корзина</string>
+    <string name="menu_item_statistic">Статистика</string>
+    <string name="menu_item_add_goods">Добавить товар</string>
+    <string name="menu_item_settings">Настройки</string>
+    <string name="menu_item_info">Информация</string>
 </resources>
